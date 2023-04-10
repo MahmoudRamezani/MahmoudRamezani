@@ -1,4 +1,3 @@
 - 👋 Hi, my name is Mahmoud Ramezani Mayiami
-- 👀 I’m interested in data science, including the practical machine learning approaches and the theoretical statsitical signal processing perspective
-- 🌱 I’m currently learning python implementation of different machind learning algoirthms and the required backgrounds to be a proficient data scientist. 
-- 📫 To reach me, you can simply send an email to mahmoud.ramezani@uia.no
+- 👀 I’m interested in big data analysis, data science, machine learning algorithms and the statsitical data/signal processing
+- 📫 To reach me, please send an email to mahmoud.ramezani.65@gmail.com
