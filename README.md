@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Mahmoud Ramezani Mayiami
-- 👀 I’m interested in big data analysis, data science, machine learning algorithms and the statsitical data/signal processing
+- 👀 I’m interested in big data analysis, data science, machine learning algorithms and statistical data/signal processing
 - 📫 To reach me, please send an email to mahmoud.ramezani.65@gmail.com
